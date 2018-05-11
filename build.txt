@@ -5,5 +5,5 @@ homepage = https://github.com/HumanGamer/MoreEndlessAmmo
 hideCode = false
 hideResources = false
 includeSource = true
-buildIgnore = *.sln, *.csproj, *.user, obj\*, bin\*, .vs\*
+buildIgnore = *.sln, *.csproj, *.user, obj\*, bin\*, .vs\*, PSDs\*
 includePDB = true
