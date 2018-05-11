@@ -25,7 +25,7 @@ namespace MoreEndlessAmmo.Items
 			item.height = 8;
 			item.ammo = AmmoID.Bullet;
 			item.knockBack = 4.5f;
-			item.value = 50;
+			item.value = Item.sellPrice(0, 2, 0, 0);
 			item.ranged = true;
 			item.rare = 7;
 		}
