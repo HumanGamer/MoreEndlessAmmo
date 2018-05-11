@@ -1,1 +1,1 @@
-Adds more Endless Ammo Pouches for different ammo types.
+Adds Endless Ammo Pouches for every bullet.
