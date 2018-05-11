@@ -21,8 +21,8 @@ namespace MoreEndlessAmmo.Items
 			item.shootSpeed = 5f;
 			item.shoot = 207;
 			item.damage = 10;
-			item.width = 8;
-			item.height = 8;
+			item.width = 26;
+			item.height = 34;
 			item.ammo = AmmoID.Bullet;
 			item.knockBack = 4.5f;
 			item.value = Item.sellPrice(0, 2, 0, 0);
